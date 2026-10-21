@@ -46,7 +46,6 @@ Estudiamos bases abstractas, métodos requeridos e implementaciones distintas ut
 
 - [Informe de SIGHA](docs/INFORME_SIGHA.pdf).
 - [UML inicial](docs/UML_SIGHA.pdf).
-- [Documento integrado de prácticas y aportes](docs/APORTES_DEL_EQUIPO.pdf).
 
 Los dos PDF originales conservan su contenido y la carátula del grupo. Los archivos de la carpeta aportes son los textos individuales editables para GitHub.
 
