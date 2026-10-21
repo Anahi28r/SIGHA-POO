@@ -1,2 +1,0 @@
-# Solo para ejecutar la práctica 1 original. La integración sigha no requiere paquetes.
-numpy
